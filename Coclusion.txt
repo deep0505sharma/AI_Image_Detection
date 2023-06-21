@@ -1,0 +1,6 @@
+First I have performed Data Preprocessing and checked if the dataset contains any NULL values or not.
+Then I have split the dataset into training and test dataset with test size being 0.2 times of original.
+After that I have applied models like SVM with polynomial kernel with degree 2, Random Forest and ANN, and a CNN model by reshaping the size of dataset to (20,20,3).
+The best f1 score and accuracy was found for SVM with 0.85 f1 score on test dataset.
+Accuracies and F1-score for other models were found to be 0.80 for ANN, 0.432 for CNN, 0.83 for random Forest.
+That's why I have chosen SVM for bitgrit submission and found my score of 0.63 there.
