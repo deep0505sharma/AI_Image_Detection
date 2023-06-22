@@ -1,3 +1,4 @@
+![nn](https://github.com/deep0505sharma/AI_Image_Detection/assets/83660142/c92a222d-8b07-45e8-a353-840a4bb635a7)
 # Description
 This is my project done under VLG IITR.
 In a world where most services are available online, identity verification is crucial to ensure that only real individuals can access and use these services. However, with the rise of generative AI, fake identities can be easily created using sophisticated algorithms. This has led to an increase in identity fraud, as fake identities can be used to gain access to online services and commit fraudulent activities.
