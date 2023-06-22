@@ -6,5 +6,6 @@ This problem is one of the competition on bitgrit and it asked to generate the c
 Varioud models which I have implemented for this challenge are: XGBoost Hyper-tuned using GridSearchCV, XGBoost with Random forest, Random Forest, SVM with kernel of polynomial of dgree 2, ANN model, CNN model, and Vision Transformer.
 XGBoost using GridSearchCV gave the best result on submitting with f1 score of 0.78
 You can assess the dataset used by following the link: https://bitgrit.net/competition/18
-![nn](https://github.com/deep0505sharma/AI_Image_Detection/assets/83660142/0c3fcf9c-8709-43a3-abed-d545e9372de4)
+![nn](https://github.com/deep0505sharma/AI_Image_Detection/assets/83660142/6a38f499-5506-499f-ab22-33ab440ec08b)
+
 
