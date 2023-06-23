@@ -7,9 +7,10 @@ Varioud models which I have implemented for this challenge are: XGBoost Hyper-tu
 XGBoost using GridSearchCV gave the best result on submitting with f1 score of 0.78
 You can assess the dataset used by following the link: https://bitgrit.net/competition/18
 ![nn](https://github.com/deep0505sharma/AI_Image_Detection/assets/83660142/6a38f499-5506-499f-ab22-33ab440ec08b)
-
+To know the results of the project, you can refer to "[Conclusion]"(Conclusion.io) section of this readme file.
 # Setup
 Clone this repository.
 ```
-gh repo clone deep0505sharma/AI_Image_Detection
+git clone https://github.com/deep0505sharma/AI_Image_Detection.git
 ```
+#Conclusion
