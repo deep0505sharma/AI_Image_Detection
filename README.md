@@ -8,4 +8,8 @@ XGBoost using GridSearchCV gave the best result on submitting with f1 score of 0
 You can assess the dataset used by following the link: https://bitgrit.net/competition/18
 ![nn](https://github.com/deep0505sharma/AI_Image_Detection/assets/83660142/6a38f499-5506-499f-ab22-33ab440ec08b)
 
-
+# Setup
+Clone this repository.
+```
+gh repo clone deep0505sharma/AI_Image_Detection
+```
