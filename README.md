@@ -20,15 +20,15 @@ git clone https://github.com/deep0505sharma/AI_Image_Detection.git
 ```
 
 # 💡 Tech Stach
-*Python
-*Keras
-*Sklearn
-*Pandas
-*VS Code
-*NumPy
-*Machine Learning
-*Deep Learning
-*Tensorflow
+-Python
+-Keras
+-Sklearn
+-Pandas
+-VS Code
+-NumPy
+-Machine Learning
+-Deep Learning
+-Tensorflow
 
 # Conclusion
 Refer to the conclusion.txt file to see the quantitative results of the algorithms applied. 
