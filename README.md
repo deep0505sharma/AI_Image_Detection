@@ -14,3 +14,5 @@ Clone this repository.
 git clone https://github.com/deep0505sharma/AI_Image_Detection.git
 ```
 # Conclusion
+Refer to the conclusion.txt file to see the quantitative results of the algorithms applied. 
+If you find any discripency or issue or have any suugestions to improve the accuracy of the models, you can conatct me on [Linkedin](https://www.linkedin.com/in/deepak-sharma-40a8781b8/🔗)
