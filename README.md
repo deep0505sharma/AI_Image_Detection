@@ -20,7 +20,9 @@ git clone https://github.com/deep0505sharma/AI_Image_Detection.git
 ```
 
 # 💡 Tech Stach
-[<img src="nn.jpg">](https://www.python.org/)
+<a href="https://www.python.org/">
+  <img src="D:\image\python.jpg" alt="Click me!" />
+</a>
 *Python
 *Keras
 *Sklearn
